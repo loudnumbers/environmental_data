@@ -8,7 +8,9 @@ If you'd like to push your skills further and meet other sonifiers, check out th
 
 ## Annual
 
-The annual csv file (download) contains data running from 1959 to 2022 - a timespan of 64 years. Here's an explanation of the column names
+The annual csv file ([download](https://raw.githubusercontent.com/loudnumbers/environmental_data/main/annual.csv)) contains data running from 1959 to 2022 - a timespan of 64 years. It suits longer sonifications where you might want things to evolve more gradually. It suits shorter sonifications where you might want the story of the data to be clear and obvious.
+
+Here's an explanation of the column names:
 
 ### Monthly mean CO2 levels in the atmosphere
 
@@ -46,6 +48,10 @@ The annual csv file (download) contains data running from 1959 to 2022 - a times
 - **Source link**: [https://ozonewatch.gsfc.nasa.gov/facts/eesc_SH.html](https://ozonewatch.gsfc.nasa.gov/facts/eesc_SH.html)
 
 ## Monthly
+
+The monthly csv file ([download](https://raw.githubusercontent.com/loudnumbers/environmental_data/main/monthly.csv)) contains data running from June 1980 to January 2023 - a timespan of 512 months. It suits longer sonifications where you might want things to evolve more gradually.
+
+Here's an explanation of the column names:
 
 ### Annual mean CO2 levels in the atmosphere
 
