@@ -8,7 +8,7 @@ If you'd like to push your skills further and meet other sonifiers, check out th
 
 ## Annual
 
-The annual csv file ([download](https://raw.githubusercontent.com/loudnumbers/environmental_data/main/annual.csv)) contains data running from 1959 to 2022 - a timespan of 64 years. It suits longer sonifications where you might want things to evolve more gradually. It suits shorter sonifications where you might want the story of the data to be clear and obvious.
+The annual csv file ([download](https://raw.githubusercontent.com/loudnumbers/environmental_data/main/annual.csv)) contains data running from 1959 to 2022 - a timespan of 64 years.It suits shorter sonifications where you might want the story of the data to be clear and obvious.
 
 Here's an explanation of the column names:
 
