@@ -12,7 +12,7 @@ The annual csv file ([download](https://raw.githubusercontent.com/loudnumbers/en
 
 Here's an explanation of the column names:
 
-### Monthly mean CO2 levels in the atmosphere
+### Annual mean CO2 levels in the atmosphere
 
 - **Variable**: co2annual
 - **Notes**: Parts per million (ppm). Measured at Mauna Loa volcano, Hawaii.
@@ -53,7 +53,7 @@ The monthly csv file ([download](https://raw.githubusercontent.com/loudnumbers/e
 
 Here's an explanation of the column names:
 
-### Annual mean CO2 levels in the atmosphere
+### Monthly mean CO2 levels in the atmosphere
 
 - **Variable**: co2monthly
 - **Notes**: Parts per million (ppm). Measured at Mauna Loa volcano, Hawaii.
