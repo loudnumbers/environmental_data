@@ -1,6 +1,6 @@
 # Environmental Data for Sonification
 
-Data sonification is the art and science of turning datasets into sound and music. Learn more at **Ableton.com/EarthDay <- Replace with real link when we're ready!**
+Data sonification is the art and science of turning datasets into sound and music. Learn more at **[Ableton.com](https://www.ableton.com/en/blog/sound-the-alarm-data-sonification-as-a-tool-for-climate-action/)**
 
 This repository contains a collection of environmental datasets that can be used for sonification. It was compiled by data sonification studio [Loud Numbers](http://www.loudnumbers.net). Direct any questions to [numbersloud@gmail.com](mailto:numbersloud@gmail.com).
 
